@@ -5,8 +5,8 @@
 ## 🏢 Internship Details
 
 - **Company**: CODTECH IT SOLUTIONS PVT. LTD.
-- **Name**: SHIVAM MISHRA
-- **Intern ID**: CT12WS112
+- **Name**: Karan Singh
+- **Intern ID**: CT12WS122
 - **Domain**: Java Programming
 - **Internship Duration**: 12 Weeks (March 28, 2025 – June 28, 2025)
 - **Mentor**: NEELA SANTOSH KUMAR
